@@ -1,0 +1,17 @@
+body {
+    background: #ECEFF1;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+h1 {
+    letter-spacing: 7px;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #ffcb05;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #0071b9;
+    text-align: center;
+    font-size: 151px;
+    margin: 10px;
+}

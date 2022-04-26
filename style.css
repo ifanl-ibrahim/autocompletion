@@ -1,37 +1,24 @@
 body {
     background: #ECEFF1;
     box-sizing: border-box;
-    display: flex;
-    flex-direction: column-reverse;
 }
 
 body, input {
     font-family: monospace;
 }
 
-img, ul {
+header img, ul {
     margin: 0;
     padding: 0;
 }
 
-form {
+header form {
     max-width: 750px;
     margin: 50px;
     margin: auto;
 }
 
-h1 {
-    letter-spacing: 7px;
-    font-family: 'Pokemon Solid', sans-serif;
-    color: #ffcb05;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #0071b9;
-    text-align: center;
-    font-size: 151px;
-    margin: 10px;
-}
-
-ul li {
+header ul li {
     background: #fff;
     list-style: none;
     font-size: 24px;
@@ -42,7 +29,7 @@ ul li {
     align-items: center;
 }
 
-input {
+header input {
     width: 100%;
     margin: 0;
     font-size: 36px;

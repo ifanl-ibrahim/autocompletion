@@ -1,8 +1,8 @@
-"use strict";
+    "use strict";
 
 document.addEventListener('DOMContentLoaded', function loaded() {
     // je place mon fichier JSON dans une variable
-    const pokedex = 'pokedex.json';
+    // const pokedex = 'pokedex.json';
     const pokemons = [];
     var form = document.querySelector('form');
     var formDatas = new FormData();
@@ -12,39 +12,41 @@ document.addEventListener('DOMContentLoaded', function loaded() {
 
     fetch('traitement.php', {
         method: 'POST',
-        body: JSON.stringify({
-            search: search.value
-        }),
-        headers: {
-            "content-type": "application/json; charset=UTF-8"
-        }
+        body: formDatas
     })
 
-    fetch(pokedex)
-    // avec res(ou qu'importe le nom) je recupere des donnée brute que je transforme en "json" par la suite
-        .then(res => res.json())
-    // avec le "spread(...)" je décompose toute les donnée ce qui me permet de les manipulé une par une
-        .then(data => pokemons.push(...data.pokemon));
+    .then(function(response) {
+        return response.json()
+    })
+    .then(data => pokemons.push(...data));
+    console.log(pokemons)
+
+
+    // fetch(pokedex)
+    // // avec res(ou qu'importe le nom) je recupere des donnée brute que je transforme en "json" par la suite
+    //     .then(res => res.json())
+    // // avec le "spread(...)" je décompose toute les donnée ce qui me permet de les manipulé une par une
+    //     .then(data => pokemons.push(...data.pokemon));
         
     function trouverPokemon(recherche, pokemons) {
     // filtre le tableau pokemons pour chaque array
-        return pokemons.filter(pokemon => {
+        return pokemons.filter(data => {
         // va recuperé les info de l'input avec le regex, gi = tout les caractère qu'il soi minuscule et majuscule
             const regex = new RegExp(recherche, 'gi');
         // recherche le pokemon par son nom si sa match avec le regex ou par son type avec find qui renvoi la valeur du premier élément trouvé dans le tableau =>|| pokemon.type.find(type => type.match(regex)); 
-            return pokemon.name.match(regex);
+            return data.name.match(regex);
         });
     }
 
     function afficherResultat() {
         const tableauResultat = trouverPokemon(this.value, pokemons);
-        const html = tableauResultat.map(pokemon => { // map permet de boucler sur chacune des entré du tableau
+        const html = tableauResultat.map(data => { // map permet de boucler sur chacune des entré du tableau
             return `
                 <a href="element.php">
                     <li>
-                        <span>${pokemon.num}</span>
-                        <img src = "${pokemon.img}" alt= "img poke">
-                        <span>${pokemon.name}</span>
+                        <span>N°${data.id}</span>
+                        <img src = "${data.img}" alt= "img poke">
+                        <span>${data.name}</span>
                     </li>
                 </a>
             `;

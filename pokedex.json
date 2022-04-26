@@ -5,8 +5,8 @@
     "name": "Bulbizarre",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.71 m",
     "poids": "6.9 kg",
@@ -36,8 +36,8 @@
     "name": "Herbizarre",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.99 m",
     "poids": "13.0 kg",
@@ -71,8 +71,8 @@
     "name": "Florizarre",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "2.01 m",
     "poids": "100.0 kg",
@@ -101,8 +101,8 @@
     "name": "Salamèche",
     "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "8.5 kg",
@@ -131,8 +131,8 @@
     "name": "Reptincel",
     "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "1.09 m",
     "poids": "19.0 kg",
@@ -162,8 +162,8 @@
     "name": "Dracaufeu",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
     "type": [
-      ["Feu"],
-      ["Vol"]
+      "Feu",
+      "Vol"
     ],
     "taille": "1.70 m",
     "poids": "90.5 kg",
@@ -191,8 +191,8 @@
     "name": "Carapuce",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.51 m",
     "poids": "9.0 kg",
@@ -220,8 +220,8 @@
     "name": "Carabaffe",
     "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "22.5 kg",
@@ -250,8 +250,8 @@
     "name": "Tortank",
     "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.60 m",
     "poids": "85.5 kg",
@@ -278,8 +278,8 @@
     "name": "Chenipan",
     "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
     "type": [
-      ["Insecte"],
-      ["/"]
+      "Insecte",
+      "/"
     ],
     "taille": "0.30 m",
     "poids": "2.9 kg",
@@ -308,8 +308,8 @@
     "name": "Chrysacier",
     "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
     "type": [
-      ["Insecte"],
-      ["/"]
+      "Insecte",
+      "/"
     ],
     "taille": "0.71 m",
     "poids": "9.9 kg",
@@ -342,8 +342,8 @@
     "name": "Papilusion",
     "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
     "type": [
-      ["Insecte"],
-      ["Vol"]
+      "Insecte",
+      "Vol"
     ],
     "taille": "1.09 m",
     "poids": "32.0 kg",
@@ -373,8 +373,8 @@
     "name": "Aspicot",
     "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
     "type": [
-      ["Insecte"],
-      ["Poison"]
+      "Insecte",
+      "Poison"
     ],
     "taille": "0.30 m",
     "poids": "3.2 kg",
@@ -407,8 +407,8 @@
     "name": "Coconfort",
     "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
     "type": [
-      ["Insecte"],
-      ["Poison"]
+      "Insecte",
+      "Poison"
     ],
     "taille": "0.61 m",
     "poids": "10.0 kg",
@@ -442,8 +442,8 @@
     "name": "Dardargnan",
     "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
     "type": [
-      ["Insecte"],
-      ["Poison"]
+      "Insecte",
+      "Poison"
     ],
     "taille": "0.99 m",
     "poids": "29.5 kg",
@@ -472,8 +472,8 @@
     "name": "Roucool",
     "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "0.30 m",
     "poids": "1.8 kg",
@@ -504,8 +504,8 @@
     "name": "Roucoups",
     "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "1.09 m",
     "poids": "30.0 kg",
@@ -534,8 +534,8 @@
     "name": "Roucarnage",
     "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "1.50 m",
     "poids": "39.5 kg",
@@ -562,8 +562,8 @@
     "name": "Rattata",
     "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.30 m",
     "poids": "3.5 kg",
@@ -590,8 +590,8 @@
     "name": "Rattatac",
     "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.71 m",
     "poids": "18.5 kg",
@@ -614,8 +614,8 @@
     "name": "Piafabec",
     "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "0.30 m",
     "poids": "2.0 kg",
@@ -643,8 +643,8 @@
     "name": "Rapasdepic",
     "img": "http://www.serebii.net/pokemongo/pokemon/022.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "1.19 m",
     "poids": "38.0 kg",
@@ -668,8 +668,8 @@
     "name": "Abo",
     "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "2.01 m",
     "poids": "6.9 kg",
@@ -697,8 +697,8 @@
     "name": "Arbok",
     "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "3.51 m",
     "poids": "65.0 kg",
@@ -722,8 +722,8 @@
     "name": "Pikachu",
     "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "6.0 kg",
@@ -747,8 +747,8 @@
     "name": "Raichu",
     "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "30.0 kg",
@@ -771,8 +771,8 @@
     "name": "Sabelette",
     "img": "http://www.serebii.net/pokemongo/pokemon/027.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "12.0 kg",
@@ -798,8 +798,8 @@
     "name": "Sablaireau",
     "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "29.5 kg",
@@ -824,8 +824,8 @@
     "name": "Nidoran ♀ (Female)",
     "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "7.0 kg",
@@ -856,8 +856,8 @@
     "name": "Nidorina",
     "img": "http://www.serebii.net/pokemongo/pokemon/030.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "20.0 kg",
@@ -889,8 +889,8 @@
     "name": "Nidoqueen",
     "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
     "type": [
-      ["Poison"],
-      ["Sol"]
+      "Poison",
+      "Sol"
     ],
     "taille": "1.30 m",
     "poids": "60.0 kg",
@@ -919,8 +919,8 @@
     "name": "Nidoran ♂ (Male)",
     "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.51 m",
     "poids": "9.0 kg",
@@ -951,8 +951,8 @@
     "name": "Nidorino",
     "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.89 m",
     "poids": "19.5 kg",
@@ -981,8 +981,8 @@
     "name": "Nidoking",
     "img": "http://www.serebii.net/pokemongo/pokemon/034.png",
     "type": [
-      ["Poison"],
-      ["Sol"]
+      "Poison",
+      "Sol"
     ],
     "taille": "1.40 m",
     "poids": "62.0 kg",
@@ -1011,8 +1011,8 @@
     "name": "Mélofée",
     "img": "http://www.serebii.net/pokemongo/pokemon/035.png",
     "type": [
-      ["Fée"],
-      ["/"]
+      "Fée",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "7.5 kg",
@@ -1040,8 +1040,8 @@
     "name": "Mélodelfe",
     "img": "http://www.serebii.net/pokemongo/pokemon/036.png",
     "type": [
-      ["Fée"],
-      ["/"]
+      "Fée",
+      "/"
     ],
     "taille": "1.30 m",
     "poids": "40.0 kg",
@@ -1065,8 +1065,8 @@
     "name": "Goupix",
     "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "9.9 kg",
@@ -1095,8 +1095,8 @@
     "name": "Feunard",
     "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "1.09 m",
     "poids": "19.9 kg",
@@ -1121,8 +1121,8 @@
     "name": "Rondoudou",
     "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
     "type": [
-      ["Normal"],
-      ["Fée"]
+      "Normal",
+      "Fée"
     ],
     "taille": "0.51 m",
     "poids": "5.5 kg",
@@ -1147,8 +1147,8 @@
     "name": "Grodoudou",
     "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
     "type": [
-      ["Normal"],
-      ["Fée"]
+      "Normal",
+      "Fée"
     ],
     "taille": "0.99 m",
     "poids": "12.0 kg",
@@ -1172,8 +1172,8 @@
     "name": "Nosferapti",
     "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
     "type": [
-      ["Poison"],
-      ["Vol"]
+      "Poison",
+      "Vol"
     ],
     "taille": "0.79 m",
     "poids": "7.5 kg",
@@ -1203,8 +1203,8 @@
     "name": "Nosferalto",
     "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
     "type": [
-      ["Poison"],
-      ["Vol"]
+      "Poison",
+      "Vol"
     ],
     "taille": "1.60 m",
     "poids": "55.0 kg",
@@ -1230,8 +1230,8 @@
     "name": "Mystherbe",
     "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.51 m",
     "poids": "5.4 kg",
@@ -1261,8 +1261,8 @@
     "name": "Ortide",
     "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.79 m",
     "poids": "8.6 kg",
@@ -1293,8 +1293,8 @@
     "name": "Rafflesia",
     "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "1.19 m",
     "poids": "18.6 kg",
@@ -1323,8 +1323,8 @@
     "name": "Paras",
     "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
     "type": [
-      ["Insecte"],
-      ["Plante"]
+      "Insecte",
+      "Plante"
     ],
     "taille": "0.30 m",
     "poids": "5.4 kg",
@@ -1353,8 +1353,8 @@
     "name": "Parasect",
     "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
     "type": [
-      ["Insecte"],
-      ["Plante"]
+      "Insecte",
+      "Plante"
     ],
     "taille": "0.99 m",
     "poids": "29.5 kg",
@@ -1382,8 +1382,8 @@
     "name": "Mimitoss",
     "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
     "type": [
-      ["Insecte"],
-      ["Poison"]
+      "Insecte",
+      "Poison"
     ],
     "taille": "0.99 m",
     "poids": "30.0 kg",
@@ -1413,8 +1413,8 @@
     "name": "Aéromite",
     "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
     "type": [
-      ["Insecte"],
-      ["Poison"]
+      "Insecte",
+      "Poison"
     ],
     "taille": "1.50 m",
     "poids": "12.5 kg",
@@ -1440,8 +1440,8 @@
     "name": "Taupiqueur",
     "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.20 m",
     "poids": "0.8 kg",
@@ -1467,8 +1467,8 @@
     "name": "Triopikeur",
     "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.71 m",
     "poids": "33.3 kg",
@@ -1493,8 +1493,8 @@
     "name": "Miaouss",
     "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "4.2 kg",
@@ -1518,8 +1518,8 @@
     "name": "Persian",
     "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "32.0 kg",
@@ -1542,8 +1542,8 @@
     "name": "Psykokwak",
     "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "19.6 kg",
@@ -1568,8 +1568,8 @@
     "name": "Akwakwak",
     "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.70 m",
     "poids": "76.6 kg",
@@ -1593,8 +1593,8 @@
     "name": "Férosinge",
     "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "0.51 m",
     "poids": "28.0 kg",
@@ -1623,8 +1623,8 @@
     "name": "Colossinge",
     "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "32.0 kg",
@@ -1649,8 +1649,8 @@
     "name": "Caninos",
     "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "0.71 m",
     "poids": "19.0 kg",
@@ -1679,8 +1679,8 @@
     "name": "Arcanin",
     "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "1.91 m",
     "poids": "155.0 kg",
@@ -1705,8 +1705,8 @@
     "name": "Ptitard",
     "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "12.4 kg",
@@ -1737,8 +1737,8 @@
     "name": "Têtarte",
     "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "20.0 kg",
@@ -1767,8 +1767,8 @@
     "name": "Tartard",
     "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
     "type": [
-      ["Eau"],
-      ["Combat"]
+      "Eau",
+      "Combat"
     ],
     "taille": "1.30 m",
     "poids": "54.0 kg",
@@ -1798,8 +1798,8 @@
     "name": "Abra",
     "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "0.89 m",
     "poids": "19.5 kg",
@@ -1831,8 +1831,8 @@
     "name": "Kadabra",
     "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "1.30 m",
     "poids": "56.5 kg",
@@ -1862,8 +1862,8 @@
     "name": "Alakazam",
     "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "1.50 m",
     "poids": "48.0 kg",
@@ -1891,8 +1891,8 @@
     "name": "Machoc",
     "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "19.5 kg",
@@ -1924,8 +1924,8 @@
     "name": "Machopeur",
     "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "1.50 m",
     "poids": "70.5 kg",
@@ -1955,8 +1955,8 @@
     "name": "Mackogneur",
     "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "1.60 m",
     "poids": "130.0 kg",
@@ -1984,8 +1984,8 @@
     "name": "Chétiflor",
     "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.71 m",
     "poids": "4.0 kg",
@@ -2015,8 +2015,8 @@
     "name": "Boustiflor",
     "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "0.99 m",
     "poids": "6.4 kg",
@@ -2047,8 +2047,8 @@
     "name": "Empiflor",
     "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
     "type": [
-      ["Plante"],
-      ["Poison"]
+      "Plante",
+      "Poison"
     ],
     "taille": "1.70 m",
     "poids": "15.5 kg",
@@ -2077,8 +2077,8 @@
     "name": "Tentacool",
     "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
     "type": [
-      ["Eau"],
-      ["Poison"]
+      "Eau",
+      "Poison"
     ],
     "taille": "0.89 m",
     "poids": "45.5 kg",
@@ -2104,8 +2104,8 @@
     "name": "Tentacruel",
     "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
     "type": [
-      ["Eau"],
-      ["Poison"]
+      "Eau",
+      "Poison"
     ],
     "taille": "1.60 m",
     "poids": "55.0 kg",
@@ -2130,8 +2130,8 @@
     "name": "Racaillou",
     "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
     "type": [
-      ["Roche"],
-      ["Sol"]
+      "Roche",
+      "Sol"
     ],
     "taille": "0.41 m",
     "poids": "20.0 kg",
@@ -2166,8 +2166,8 @@
     "name": "Gravalanch",
     "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
     "type": [
-      ["Roche"],
-      ["Sol"]
+      "Roche",
+      "Sol"
     ],
     "taille": "0.99 m",
     "poids": "105.0 kg",
@@ -2203,8 +2203,8 @@
     "name": "Grolem",
     "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
     "type": [
-      ["Roche"],
-      ["Sol"]
+      "Roche",
+      "Sol"
     ],
     "taille": "1.40 m",
     "poids": "300.0 kg",
@@ -2235,8 +2235,8 @@
     "name": "Ponyta",
     "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "30.0 kg",
@@ -2265,8 +2265,8 @@
     "name": "Galopa",
     "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "1.70 m",
     "poids": "95.0 kg",
@@ -2291,8 +2291,8 @@
     "name": "Ramoloss",
     "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
     "type": [
-      ["Eau"],
-      ["Psy"]
+      "Eau",
+      "Psy"
     ],
     "taille": "1.19 m",
     "poids": "36.0 kg",
@@ -2320,8 +2320,8 @@
     "name": "Flagadoss",
     "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
     "type": [
-      ["Eau"],
-      ["Psy"]
+      "Eau",
+      "Psy"
     ],
     "taille": "1.60 m",
     "poids": "78.5 kg",
@@ -2348,8 +2348,8 @@
     "name": "Magnéti",
     "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
     "type": [
-      ["Électrique"],
-      ["Acier"]
+      "Électrique",
+      "Acier"
     ],
     "taille": "0.30 m",
     "poids": "6.0 kg",
@@ -2378,8 +2378,8 @@
     "name": "Magnéton",
     "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
     "type": [
-      ["Électrique"],
-      ["Acier"]
+      "Électrique",
+      "Acier"
     ],
     "taille": "0.99 m",
     "poids": "60.0 kg",
@@ -2404,8 +2404,8 @@
     "name": "Canarticho",
     "img": "http://www.serebii.net/pokemongo/pokemon/083.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "0.79 m",
     "poids": "15.0 kg",
@@ -2425,8 +2425,8 @@
     "name": "Doduo",
     "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "1.40 m",
     "poids": "39.2 kg",
@@ -2454,8 +2454,8 @@
     "name": "Dodrio",
     "img": "http://www.serebii.net/pokemongo/pokemon/085.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "1.80 m",
     "poids": "85.2 kg",
@@ -2479,8 +2479,8 @@
     "name": "Otaria",
     "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.09 m",
     "poids": "90.0 kg",
@@ -2508,8 +2508,8 @@
     "name": "Lamantine",
     "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
     "type": [
-      ["Eau"],
-      ["Glace"]
+      "Eau",
+      "Glace"
     ],
     "taille": "1.70 m",
     "poids": "120.0 kg",
@@ -2535,8 +2535,8 @@
     "name": "Tadmorv",
     "img": "http://www.serebii.net/pokemongo/pokemon/088.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.89 m",
     "poids": "30.0 kg",
@@ -2561,8 +2561,8 @@
     "name": "Grotadmorv",
     "img": "http://www.serebii.net/pokemongo/pokemon/089.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "1.19 m",
     "poids": "30.0 kg",
@@ -2586,8 +2586,8 @@
     "name": "Kokiyas",
     "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.30 m",
     "poids": "4.0 kg",
@@ -2612,8 +2612,8 @@
     "name": "Crustabri",
     "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
     "type": [
-      ["Eau"],
-      ["Glace"]
+      "Eau",
+      "Glace"
     ],
     "taille": "1.50 m",
     "poids": "132.5 kg",
@@ -2639,8 +2639,8 @@
     "name": "Fantominus",
     "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
     "type": [
-      ["Spectre"],
-      ["Poison"]
+      "Spectre",
+      "Poison"
     ],
     "taille": "1.30 m",
     "poids": "0.1 kg",
@@ -2670,8 +2670,8 @@
     "name": "Spectrum",
     "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
     "type": [
-      ["Spectre"],
-      ["Poison"]
+      "Spectre",
+      "Poison"
     ],
     "taille": "1.60 m",
     "poids": "0.1 kg",
@@ -2705,8 +2705,8 @@
     "name": "Ectoplasma",
     "img": "http://www.serebii.net/pokemongo/pokemon/094.png",
     "type": [
-      ["Spectre"],
-      ["Poison"]
+      "Spectre",
+      "Poison"
     ],
     "taille": "1.50 m",
     "poids": "40.5 kg",
@@ -2735,8 +2735,8 @@
     "name": "Onix",
     "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
     "type": [
-      ["Roche"],
-      ["Sol"]
+      "Roche",
+      "Sol"
     ],
     "taille": "8.79 m",
     "poids": "210.0 kg",
@@ -2760,8 +2760,8 @@
     "name": "Soporifik",
     "img": "http://www.serebii.net/pokemongo/pokemon/096.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "32.4 kg",
@@ -2790,8 +2790,8 @@
     "name": "Hypnomade",
     "img": "http://www.serebii.net/pokemongo/pokemon/097.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "1.60 m",
     "poids": "75.6 kg",
@@ -2816,8 +2816,8 @@
     "name": "Krabby",
     "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "6.5 kg",
@@ -2845,8 +2845,8 @@
     "name": "Krabboss",
     "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.30 m",
     "poids": "60.0 kg",
@@ -2870,8 +2870,8 @@
     "name": "Voltorbe",
     "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "0.51 m",
     "poids": "10.4 kg",
@@ -2898,8 +2898,8 @@
     "name": "Electrode",
     "img": "http://www.serebii.net/pokemongo/pokemon/101.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "1.19 m",
     "poids": "66.6 kg",
@@ -2922,8 +2922,8 @@
     "name": "Noeunoeuf",
     "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
     "type": [
-      ["Plante"],
-      ["Psy"]
+      "Plante",
+      "Psy"
     ],
     "taille": "0.41 m",
     "poids": "2.5 kg",
@@ -2956,8 +2956,8 @@
     "name": "Noadkoko",
     "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
     "type": [
-      ["Plante"],
-      ["Psy"]
+      "Plante",
+      "Psy"
     ],
     "taille": "2.01 m",
     "poids": "120.0 kg",
@@ -2986,8 +2986,8 @@
     "name": "Osselait",
     "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "6.5 kg",
@@ -3013,8 +3013,8 @@
     "name": "Ossatueur",
     "img": "http://www.serebii.net/pokemongo/pokemon/105.png",
     "type": [
-      ["Sol"],
-      ["/"]
+      "Sol",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "45.0 kg",
@@ -3039,8 +3039,8 @@
     "name": "Kicklee",
     "img": "http://www.serebii.net/pokemongo/pokemon/106.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "1.50 m",
     "poids": "49.8 kg",
@@ -3061,8 +3061,8 @@
     "name": "Tygnon",
     "img": "http://www.serebii.net/pokemongo/pokemon/107.png",
     "type": [
-      ["Combat"],
-      ["/"]
+      "Combat",
+      "/"
     ],
     "taille": "1.40 m",
     "poids": "50.2 kg",
@@ -3083,8 +3083,8 @@
     "name": "Excelangue",
     "img": "http://www.serebii.net/pokemongo/pokemon/108.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "1.19 m",
     "poids": "65.5 kg",
@@ -3103,8 +3103,8 @@
     "name": "Smogo",
     "img": "http://www.serebii.net/pokemongo/pokemon/109.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "1.0 kg",
@@ -3129,8 +3129,8 @@
     "name": "Smogogo",
     "img": "http://www.serebii.net/pokemongo/pokemon/110.png",
     "type": [
-      ["Poison"],
-      ["/"]
+      "Poison",
+      "/"
     ],
     "taille": "1.19 m",
     "poids": "9.5 kg",
@@ -3154,8 +3154,8 @@
     "name": "Rhinocorne",
     "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
     "type": [
-      ["Sol"],
-      ["Roche"]
+      "Sol",
+      "Roche"
     ],
     "taille": "0.99 m",
     "poids": "115.0 kg",
@@ -3184,8 +3184,8 @@
     "name": "Rhinoféros",
     "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
     "type": [
-      ["Sol"],
-      ["Roche"]
+      "Sol",
+      "Roche"
     ],
     "taille": "1.91 m",
     "poids": "120.0 kg",
@@ -3213,8 +3213,8 @@
     "name": "Leveinard",
     "img": "http://www.serebii.net/pokemongo/pokemon/113.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "1.09 m",
     "poids": "34.6 kg",
@@ -3233,8 +3233,8 @@
     "name": "Saquedeneu",
     "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
     "type": [
-      ["Plante"],
-      ["/"]
+      "Plante",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "35.0 kg",
@@ -3257,8 +3257,8 @@
     "name": "Kangourex",
     "img": "http://www.serebii.net/pokemongo/pokemon/115.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "2.21 m",
     "poids": "80.0 kg",
@@ -3277,8 +3277,8 @@
     "name": "Hypotrempe",
     "img": "http://www.serebii.net/pokemongo/pokemon/116.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "8.0 kg",
@@ -3303,8 +3303,8 @@
     "name": "Hypocéan",
     "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.19 m",
     "poids": "25.0 kg",
@@ -3328,8 +3328,8 @@
     "name": "Poissirène",
     "img": "http://www.serebii.net/pokemongo/pokemon/118.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.61 m",
     "poids": "15.0 kg",
@@ -3357,8 +3357,8 @@
     "name": "Poissoroy",
     "img": "http://www.serebii.net/pokemongo/pokemon/119.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "1.30 m",
     "poids": "39.0 kg",
@@ -3382,8 +3382,8 @@
     "name": "Stari",
     "img": "http://www.serebii.net/pokemongo/pokemon/120.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "34.5 kg",
@@ -3411,8 +3411,8 @@
     "name": "Staross",
     "img": "http://www.serebii.net/pokemongo/pokemon/121.png",
     "type": [
-      ["Eau"],
-      ["Psy"]
+      "Eau",
+      "Psy"
     ],
     "taille": "1.09 m",
     "poids": "80.0 kg",
@@ -3439,8 +3439,8 @@
     "name": "M. Mime",
     "img": "http://www.serebii.net/pokemongo/pokemon/122.png",
     "type": [
-      ["Psy"],
-      ["Fée"]
+      "Psy",
+      "Fée"
     ],
     "taille": "1.30 m",
     "poids": "54.5 kg",
@@ -3461,8 +3461,8 @@
     "name": "Insécateur",
     "img": "http://www.serebii.net/pokemongo/pokemon/123.png",
     "type": [
-      ["Insecte"],
-      ["Vol"]
+      "Insecte",
+      "Vol"
     ],
     "taille": "1.50 m",
     "poids": "56.0 kg",
@@ -3485,8 +3485,8 @@
     "name": "Lippoutou",
     "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
     "type": [
-      ["Glace"],
-      ["Psy"]
+      "Glace",
+      "Psy"
     ],
     "taille": "1.40 m",
     "poids": "40.6 kg",
@@ -3510,8 +3510,8 @@
     "name": "Élektek",
     "img": "http://www.serebii.net/pokemongo/pokemon/125.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "1.09 m",
     "poids": "30.0 kg",
@@ -3530,8 +3530,8 @@
     "name": "Magmar",
     "img": "http://www.serebii.net/pokemongo/pokemon/126.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "1.30 m",
     "poids": "44.5 kg",
@@ -3552,8 +3552,8 @@
     "name": "Scarabrute",
     "img": "http://www.serebii.net/pokemongo/pokemon/127.png",
     "type": [
-      ["Insecte"],
-      ["/"]
+      "Insecte",
+      "/"
     ],
     "taille": "1.50 m",
     "poids": "55.0 kg",
@@ -3574,8 +3574,8 @@
     "name": "Tauros",
     "img": "http://www.serebii.net/pokemongo/pokemon/128.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "1.40 m",
     "poids": "88.4 kg",
@@ -3594,8 +3594,8 @@
     "name": "Magicarpe",
     "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.89 m",
     "poids": "10.0 kg",
@@ -3623,8 +3623,8 @@
     "name": "Léviator",
     "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
     "type": [
-      ["Normal"],
-      ["Vol"]
+      "Normal",
+      "Vol"
     ],
     "taille": "6.50 m",
     "poids": "235.0 kg",
@@ -3648,8 +3648,8 @@
     "name": "Lokhlass",
     "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
     "type": [
-      ["Normal"],
-      ["Glace"]
+      "Normal",
+      "Glace"
     ],
     "taille": "2.49 m",
     "poids": "220.0 kg",
@@ -3671,8 +3671,8 @@
     "name": "Métamorph",
     "img": "http://www.serebii.net/pokemongo/pokemon/132.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.30 m",
     "poids": "4.0 kg",
@@ -3691,8 +3691,8 @@
     "name": "Évoli",
     "img": "http://www.serebii.net/pokemongo/pokemon/133.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.30 m",
     "poids": "6.5 kg",
@@ -3725,8 +3725,8 @@
     "name": "Aquali",
     "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
     "type": [
-      ["Eau"],
-      ["/"]
+      "Eau",
+      "/"
     ],
     "taille": "0.99 m",
     "poids": "29.0 kg",
@@ -3750,8 +3750,8 @@
     "name": "Voltali",
     "img": "http://www.serebii.net/pokemongo/pokemon/135.png",
     "type": [
-      ["Électrique"],
-      ["/"]
+      "Électrique",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "24.5 kg",
@@ -3774,8 +3774,8 @@
     "name": "Pyroli",
     "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
     "type": [
-      ["Feu"],
-      ["/"]
+      "Feu",
+      "/"
     ],
     "taille": "0.89 m",
     "poids": "25.0 kg",
@@ -3800,8 +3800,8 @@
     "name": "Porygon",
     "img": "http://www.serebii.net/pokemongo/pokemon/137.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "0.79 m",
     "poids": "36.5 kg",
@@ -3820,8 +3820,8 @@
     "name": "Amonita",
     "img": "http://www.serebii.net/pokemongo/pokemon/138.png",
     "type": [
-      ["Roche"],
-      ["Eau"]
+      "Roche",
+      "Eau"
     ],
     "taille": "0.41 m",
     "poids": "7.5 kg",
@@ -3848,8 +3848,8 @@
     "name": "Amonistar",
     "img": "http://www.serebii.net/pokemongo/pokemon/139.png",
     "type": [
-      ["Roche"],
-      ["Eau"]
+      "Roche",
+      "Eau"
     ],
     "taille": "0.99 m",
     "poids": "35.0 kg",
@@ -3875,8 +3875,8 @@
     "name": "Kabuto",
     "img": "http://www.serebii.net/pokemongo/pokemon/140.png",
     "type": [
-      ["Roche"],
-      ["Eau"]
+      "Roche",
+      "Eau"
     ],
     "taille": "0.51 m",
     "poids": "11.5 kg",
@@ -3906,8 +3906,8 @@
     "name": "Kabutops",
     "img": "http://www.serebii.net/pokemongo/pokemon/141.png",
     "type": [
-      ["Roche"],
-      ["Eau"]
+      "Roche",
+      "Eau"
     ],
     "taille": "1.30 m",
     "poids": "40.5 kg",
@@ -3933,8 +3933,8 @@
     "name": "Ptéra",
     "img": "http://www.serebii.net/pokemongo/pokemon/142.png",
     "type": [
-      ["Roche"],
-      ["Vol"]
+      "Roche",
+      "Vol"
     ],
     "taille": "1.80 m",
     "poids": "59.0 kg",
@@ -3957,8 +3957,8 @@
     "name": "Ronflex",
     "img": "http://www.serebii.net/pokemongo/pokemon/143.png",
     "type": [
-      ["Normal"],
-      ["/"]
+      "Normal",
+      "/"
     ],
     "taille": "2.11 m",
     "poids": "460.0 kg",
@@ -3977,8 +3977,8 @@
     "name": "Artikodin",
     "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
     "type": [
-      ["Glace"],
-      ["Vol"]
+      "Glace",
+      "Vol"
     ],
     "taille": "1.70 m",
     "poids": "55.4 kg",
@@ -4000,8 +4000,8 @@
     "name": "Électhor",
     "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
     "type": [
-      ["Électrique"],
-      ["Vol"]
+      "Électrique",
+      "Vol"
     ],
     "taille": "1.60 m",
     "poids": "52.6 kg",
@@ -4021,8 +4021,8 @@
     "name": "Sulfura",
     "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
     "type": [
-      ["Feu"],
-      ["Vol"]
+      "Feu",
+      "Vol"
     ],
     "taille": "2.01 m",
     "poids": "60.0 kg",
@@ -4043,8 +4043,8 @@
     "name": "Minidraco",
     "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
     "type": [
-      ["Dragon"],
-      ["/"]
+      "Dragon",
+      "/"
     ],
     "taille": "1.80 m",
     "poids": "3.3 kg",
@@ -4076,8 +4076,8 @@
     "name": "Draco",
     "img": "http://www.serebii.net/pokemongo/pokemon/148.png",
     "type": [
-      ["Dragon"],
-      ["/"]
+      "Dragon",
+      "/"
     ],
     "taille": "3.99 m",
     "poids": "16.5 kg",
@@ -4107,8 +4107,8 @@
     "name": "Dracolosse",
     "img": "http://www.serebii.net/pokemongo/pokemon/149.png",
     "type": [
-      ["Dragon"],
-      ["Vol"]
+      "Dragon",
+      "Vol"
     ],
     "taille": "2.21 m",
     "poids": "210.0 kg",
@@ -4137,8 +4137,8 @@
     "name": "Mewtwo",
     "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "2.01 m",
     "poids": "122.0 kg",
@@ -4159,8 +4159,8 @@
     "name": "Mew",
     "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
     "type": [
-      ["Psy"],
-      ["/"]
+      "Psy",
+      "/"
     ],
     "taille": "0.41 m",
     "poids": "4.0 kg",
