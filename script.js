@@ -1,33 +1,32 @@
     "use strict";
 
 document.addEventListener('DOMContentLoaded', function loaded() {
-    // je place mon fichier JSON dans une variable
-    // const pokedex = 'pokedex.json';
     const pokemons = [];
     var form = document.querySelector('form');
     var formDatas = new FormData();
     var search = document.querySelector('input');
     var resultat = document.querySelector('ul');
-    var lien = document.querySelector('a');
+    var lien = document.querySelector('#a');
+    var article = document.querySelector('article');
+
+    formDatas.append('search', search.value);
 
     fetch('traitement.php', {
         method: 'POST',
-        body: formDatas
+        body: JSON.stringify({
+            search: search.value
+        }),
+        headers: {
+            "Content-type": "application/json; charset=UTF-8"
+        }
     })
-
     .then(function(response) {
         return response.json()
     })
-    .then(data => pokemons.push(...data));
-    console.log(pokemons)
-
-
-    // fetch(pokedex)
-    // // avec res(ou qu'importe le nom) je recupere des donnée brute que je transforme en "json" par la suite
-    //     .then(res => res.json())
-    // // avec le "spread(...)" je décompose toute les donnée ce qui me permet de les manipulé une par une
-    //     .then(data => pokemons.push(...data.pokemon));
-        
+    .then(data => pokemons.push(...data))
+        console.log(pokemons)
+    
+    
     function trouverPokemon(recherche, pokemons) {
     // filtre le tableau pokemons pour chaque array
         return pokemons.filter(data => {
@@ -42,31 +41,21 @@ document.addEventListener('DOMContentLoaded', function loaded() {
         const tableauResultat = trouverPokemon(this.value, pokemons);
         const html = tableauResultat.map(data => { // map permet de boucler sur chacune des entré du tableau
             return `
-                <a href="element.php">
+                <a href='element.php?id=${data.id}'>
                     <li>
-                        <span>N°${data.id}</span>
+                        <span>N°${data.num}</span>
                         <img src = "${data.img}" alt= "img poke">
                         <span>${data.name}</span>
                     </li>
                 </a>
             `;
         }).join(''); //join les array du tableau entre eux pour qu'il n'y est plus d'espacement
-        
-        if (search.value == "") {
-           resultat.innerHTML = "";
+        if (search.value !== "") {
+           resultat.innerHTML = html;
         } else {
-            resultat.innerHTML = html;
+            resultat.innerHTML = "";
         }
     }
 
-    function validerRecherche(afficherResultat) {
-        fetch(pokedex, {
-            method: "POST",
-            body: afficherResultat
-        })
-        window.location.replace('element.php');
-    }
-
     search.addEventListener('keyup', afficherResultat);
-    lien.addEventListener('click', validerRecherche)
 })

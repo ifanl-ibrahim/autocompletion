@@ -1,0 +1,61 @@
+main {
+    background-image: url(./img/noctalifont.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: 70vh;
+}
+
+main section {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    font-size: 24px;
+    padding: 20px;
+    box-shadow: 2px 0 10px rgb(0 0 0 / 20%);
+    width: fit-content;
+    margin: auto;
+}
+
+main h2 {
+    text-align: center;
+}
+
+main h2 span {
+    color: grey;
+}
+
+main img {
+    width: 35vh;
+    margin: auto;
+}
+
+main .type_containe {
+    text-align: center;
+    margin-top: 2vh;
+}
+
+main .type {
+    color: white;
+    border-radius: 1vh;
+    margin: 1vh;
+    padding: 1vh;
+    border-bottom: solid;
+    border-top: solid;
+}
+
+main .info {
+    margin-top: 13vh;
+    display: flex;
+    justify-content: center;
+    gap: 7em;
+}
+
+main .containe {
+    box-shadow: 2px 0 10px #0071b9;
+    font-size: 20px;
+    border-radius: 5vh;
+}
+
+main h4 span {
+    color: #ffcb05;
+}

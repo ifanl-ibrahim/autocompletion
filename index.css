@@ -1,11 +1,13 @@
 body {
-    background: #ECEFF1;
-    box-sizing: border-box;
     display: flex;
     flex-direction: column-reverse;
+    background-repeat: no-repeat;
+    background-image: url(./img/pixlr-bg-result.png);
+    background-size: 71vh;
+    background-position-x: right;
 }
 
-h1 {
+body h1 {
     letter-spacing: 7px;
     font-family: 'Pokemon Solid', sans-serif;
     color: #ffcb05;
@@ -14,4 +16,8 @@ h1 {
     text-align: center;
     font-size: 151px;
     margin: 10px;
+}
+
+.title {
+    display: none;
 }

@@ -1,0 +1,74 @@
+html {
+    scroll-behavior: smooth;
+}
+
+main {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 10em;
+}
+
+.ancre {
+    position: fixed;
+    opacity: 0.6;
+    top: auto;
+    margin-top: 35vh;
+    margin-left: 160vh;
+    transform: scale(0.5);
+    transition: 1s;
+}
+
+.ancre:hover{
+    transform: scale(1);
+}
+
+main img {
+    margin: 30px;
+    padding: 0;
+}
+
+main section {
+    display: grid;
+    column-gap: 12em;
+    row-gap: 3em;
+    grid-template-columns: 380px 380px;
+}
+
+main a {
+    text-decoration: none;
+}
+
+main li {
+    background: #fff;
+    font-size: 24px;
+    padding: 20px;
+    box-shadow: 2px 0 10px rgb(0 0 0 / 20%);
+    display: flex;
+    align-items: center;
+    width: 120%;
+}
+
+main span {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+main .name {
+    margin: 1vh;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    font-family: 'Collegerion', sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+main .type {
+    color: white;
+    border-radius: 1vh;
+    margin: 1vh;
+    padding: 1vh;
+    border-bottom: solid;
+    border-top: solid;
+}
