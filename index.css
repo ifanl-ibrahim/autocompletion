@@ -21,3 +21,13 @@ body h1 {
 .title {
     display: none;
 }
+
+@media screen and (min-width: 320px) and (max-width: 500px) {
+    body {
+        background-size: 40vh;
+    }
+
+    body h1 {
+        font-size: 10vh;
+    }
+}
